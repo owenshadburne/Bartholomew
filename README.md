@@ -4,7 +4,7 @@ This was written in my senior year of high school as a part of my Computer Scien
 
 ---
 
-# Lord Bartholomew -- A sentence rewriter for the moder ages
+# Lord Bartholomew -- A sentence rewriter for the modern ages
 #### Created by Giancarlo, Pedro, and Owen
 
 
