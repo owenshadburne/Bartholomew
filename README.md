@@ -1,3 +1,9 @@
+This python based program is a silly program designed to "help" users rewrite their sentences. 
+This was a group project; I worked on UI and interactions while my two other teammates coded the backend and the silly antics of Bartholomew.
+This was written in my senior year of high school as a part of my Computer Science Independent Studies class.
+
+---
+
 # Lord Bartholomew -- A sentence rewriter for the moder ages
 #### Created by Giancarlo, Pedro, and Owen
 
